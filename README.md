@@ -46,6 +46,5 @@ The Class Record Management System is implemented in Java and does not require a
 ## Author
 
 - **Farwah Hamid**
-- If you have any questions or encounter issues, please contact **farwah.hamid21@gmail.com** 
 
 Feel free to use and modify this Class Record Management System for educational purposes or as a basis for further development!!
